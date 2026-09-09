@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "mjadara",
+    "name": "Mjadara",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 45,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "lentils-brown",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.08
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Rinse the lentils and simmer in water until just tender, about 15 minutes.",
+      "Thinly slice half the onion and caramelize slowly in olive oil until deep golden. Set aside.",
+      "Chop the rest of the onion and soften it in the same pan, then stir in the rice, cumin, salt and pepper.",
+      "Add the part-cooked lentils and enough water to cover by 2cm. Simmer covered until the rice is tender, about 20 minutes.",
+      "Rest off the heat for 5 minutes, then serve topped with the caramelized onions."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "fasolia",
+    "name": "Fasolia (White Bean & Tomato Stew)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 60,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "white-beans-dried",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "tomato-paste",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "cilantro",
+        "qty": 1
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.002
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.25
+      }
+    ],
+    "steps": [
+      "Soak the beans overnight, then boil until tender, about 45 minutes.",
+      "Sauté the onion and garlic in olive oil until soft.",
+      "Stir in the tomato paste, chopped tomato and allspice, and cook for 5 minutes.",
+      "Add the beans with a splash of their cooking water, season, and simmer 15 minutes until thickened.",
+      "Stir in chopped cilantro just before serving over steamed rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "loubieh-bi-zeit",
+    "name": "Loubieh bi Zeit (Green Beans in Olive Oil)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 40,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "green-beans",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.002
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.25
+      }
+    ],
+    "steps": [
+      "Trim the green beans and cut into 5cm lengths.",
+      "Soften the onion and garlic in olive oil, then add the chopped tomato and cook until it breaks down.",
+      "Add the green beans, season, and enough water to just cover.",
+      "Simmer uncovered for 25 to 30 minutes until the beans are tender and the sauce has thickened.",
+      "Serve warm or at room temperature over rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "bamia-bi-zeit",
+    "name": "Bamia bi Zeit (Okra & Tomato Stew)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 40,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "okra",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "cilantro",
+        "qty": 1
+      },
+      {
+        "ingredientId": "pomegranate-molasses",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.002
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.25
+      }
+    ],
+    "steps": [
+      "Trim the okra caps without piercing the pods.",
+      "Soften the onion and garlic in olive oil, then add the chopped tomato and cook until saucy.",
+      "Add the okra, cilantro, pomegranate molasses and seasoning, plus enough water to nearly cover.",
+      "Simmer gently, without stirring too much, for 25 minutes until the okra is tender.",
+      "Serve over rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "kousa-mahshi",
+    "name": "Kousa Mahshi (Stuffed Zucchini)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 40,
+    "cookMinutes": 45,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "zucchini",
+        "qty": 1.2
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "dried-mint",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Core the zucchini with a corer, keeping the shells intact.",
+      "Mix the raw rice with ground beef, half the garlic, allspice, salt and pepper.",
+      "Loosely stuff the zucchini shells, leaving room for the rice to expand.",
+      "Layer in a pot with the remaining tomato, garlic, mint, lemon juice and enough water to cover.",
+      "Simmer covered for 40 to 45 minutes until the zucchini and rice are cooked through."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "malfouf-mahshi",
+    "name": "Malfouf Mahshi (Stuffed Cabbage Rolls)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 45,
+    "cookMinutes": 50,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "cabbage",
+        "qty": 1
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": "dried-mint",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Blanch whole cabbage leaves until pliable, then trim the thick ribs.",
+      "Mix raw rice with ground beef, half the garlic, allspice and salt.",
+      "Roll a spoonful of filling into each leaf into a tight cylinder.",
+      "Layer the rolls snugly in a pot with the remaining garlic, lemon juice, mint and water to cover.",
+      "Weigh down with a plate, simmer covered 40 minutes, and rest before serving."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "warak-enab",
+    "name": "Warak Enab (Stuffed Grape Leaves)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 50,
+    "cookMinutes": 45,
+    "leftoverDays": 2,
+    "tags": [
+      "vegetarian",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "grape-leaves-jarred",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.25
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "dried-mint",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.002
+      }
+    ],
+    "steps": [
+      "Rinse the grape leaves to remove excess brine.",
+      "Mix raw rice with diced tomato, olive oil, mint, allspice and salt.",
+      "Roll a spoonful of filling into each leaf into a tight cigar shape.",
+      "Layer tightly in a pot with garlic and lemon slices between layers, then add water to just cover.",
+      "Weigh down with a plate and simmer covered for 40 minutes."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "kibbeh-bil-sanieh",
+    "name": "Kibbeh bil Sanieh (Baked Kibbeh)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 30,
+    "cookMinutes": 35,
+    "leftoverDays": 2,
+    "tags": [
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "bulgur-fine",
+        "qty": 0.25
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "seven-spice",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "pine-nuts",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "butter",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Soak the bulgur in water for 10 minutes, then squeeze dry.",
+      "Blitz half the ground beef with the onion and half the seven-spice into a smooth base, then knead in the bulgur.",
+      "Press half the mixture into a baking tray, spread with the remaining seasoned beef, and top with the rest.",
+      "Score into diamonds, dot with butter and pine nuts.",
+      "Bake at 200°C for 30 to 35 minutes until browned."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "kafta-bil-sanieh",
+    "name": "Kafta bil Sanieh (Baked Kafta & Potatoes)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 40,
+    "leftoverDays": 2,
+    "tags": [
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "parsley",
+        "qty": 1
+      },
+      {
+        "ingredientId": "potato",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "seven-spice",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.25
+      }
+    ],
+    "steps": [
+      "Mix the ground beef with grated onion, chopped parsley, seven-spice, salt and pepper.",
+      "Press into flat patties or spread in a tray.",
+      "Layer sliced potato and tomato over the top, drizzle with olive oil.",
+      "Bake at 200°C for 35 to 40 minutes until the potatoes are golden.",
+      "Serve with rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "chicken-freekeh",
+    "name": "Chicken Freekeh",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 50,
+    "leftoverDays": 3,
+    "tags": [
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "freekeh",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "chicken-thigh",
+        "qty": 0.7
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "slivered-almonds",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "seven-spice",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "chicken-stock-cube",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Rinse the freekeh well.",
+      "Brown the chicken pieces in olive oil, then remove and set aside.",
+      "Caramelize the onion in the same pot, then stir in the freekeh and seven-spice.",
+      "Return the chicken, add the stock cube dissolved in water to cover, and simmer covered 35 to 40 minutes.",
+      "Rest 5 minutes, then serve topped with toasted almonds."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "riz-bi-dajaj",
+    "name": "Riz bi Dajaj (Chicken & Rice)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 45,
+    "leftoverDays": 2,
+    "tags": [
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "chicken-thigh",
+        "qty": 0.7
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "slivered-almonds",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "cinnamon",
+        "qty": 0.002
+      },
+      {
+        "ingredientId": "butter",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "chicken-stock-cube",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      }
+    ],
+    "steps": [
+      "Simmer the chicken with the onion and stock cube in water until cooked through. Reserve the broth.",
+      "Shred the chicken once cool enough to handle.",
+      "Toast the rice briefly in butter with cinnamon, then cook in the reserved broth until tender.",
+      "Fold the shredded chicken through the rice.",
+      "Serve topped with toasted almonds."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "shorbat-adas",
+    "name": "Shorbat Adas (Red Lentil Soup)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 30,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "quick",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "lentils-red",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "carrot",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.002
+      }
+    ],
+    "steps": [
+      "Soften the onion, garlic and carrot in olive oil.",
+      "Stir in the cumin, then add the rinsed lentils and enough water to cover generously.",
+      "Simmer 20 to 25 minutes until the lentils fall apart.",
+      "Blend smooth if you like a silky soup, or leave rustic.",
+      "Finish with a squeeze of lemon."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "fattet-hummus",
+    "name": "Fattet Hummus",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "chickpeas-dried",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "pita-bread",
+        "qty": 3
+      },
+      {
+        "ingredientId": "yogurt",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "tahini",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "butter",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "pine-nuts",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Boil the chickpeas until tender, reserving some cooking liquid.",
+      "Toast torn pita in butter until crisp and golden.",
+      "Whisk the yogurt with tahini, crushed garlic, lemon and salt.",
+      "Layer the crisped bread, warm chickpeas, then the yogurt sauce.",
+      "Scatter with toasted pine nuts and serve right away."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "moussaka-lebanese",
+    "name": "Lebanese Moussaka (Eggplant & Chickpea Stew)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 45,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "eggplant",
+        "qty": 0.8
+      },
+      {
+        "ingredientId": "chickpeas-dried",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.25
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "tomato-paste",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.07
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cube the eggplant, salt lightly and pan-fry in batches until golden. Set aside.",
+      "Soften the onion and garlic in olive oil, then add the tomato paste and chopped tomato.",
+      "Stir in the cooked chickpeas, allspice and salt, plus a splash of water.",
+      "Fold in the fried eggplant and simmer 15 minutes until the sauce thickens.",
+      "Serve warm or at room temperature with rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "batata-harra",
+    "name": "Batata Harra (Spicy Fried Potatoes)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "potato",
+        "qty": 0.8
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "cilantro",
+        "qty": 1
+      },
+      {
+        "ingredientId": "chili-flakes",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      }
+    ],
+    "steps": [
+      "Cube the potatoes and fry in batches until crisp and golden.",
+      "Drain, then toss immediately with crushed garlic, chili flakes and salt.",
+      "Fold through chopped cilantro and a squeeze of lemon.",
+      "Serve hot."
+    ],
+    "course": "side"
+  },
+  {
+    "id": "tabbouleh",
+    "name": "Tabbouleh",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 25,
+    "cookMinutes": 0,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "parsley",
+        "qty": 3
+      },
+      {
+        "ingredientId": "bulgur-fine",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "mint-fresh",
+        "qty": 1
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Soak the fine bulgur in a little water for 10 minutes, then drain well.",
+      "Finely chop the parsley, mint, tomato and onion.",
+      "Toss everything with the bulgur, lemon juice, olive oil and salt.",
+      "Chill briefly and serve with lettuce leaves for scooping."
+    ],
+    "course": "side"
+  },
+  {
+    "id": "fattoush",
+    "name": "Fattoush",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 5,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "lettuce-romaine",
+        "qty": 1
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "cucumber",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "radish",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "scallion",
+        "qty": 1
+      },
+      {
+        "ingredientId": "mint-fresh",
+        "qty": 1
+      },
+      {
+        "ingredientId": "pita-bread",
+        "qty": 2
+      },
+      {
+        "ingredientId": "sumac",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "pomegranate-molasses",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.005
+      }
+    ],
+    "steps": [
+      "Toast or fry the pita until crisp, then break into shards.",
+      "Chop the lettuce, tomato, cucumber, radish and scallion.",
+      "Whisk olive oil, lemon juice, pomegranate molasses, sumac and salt.",
+      "Toss the vegetables with the dressing and top with the crisp bread just before serving."
+    ],
+    "course": "side"
+  },
+  {
+    "id": "hummus-bi-lahm",
+    "name": "Hummus bi Lahm (Hummus with Spiced Beef)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "chickpeas-dried",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "tahini",
+        "qty": 0.08
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.25
+      },
+      {
+        "ingredientId": "pine-nuts",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "pita-bread",
+        "qty": 4
+      }
+    ],
+    "steps": [
+      "Blend the boiled chickpeas with tahini, lemon, garlic and salt until smooth, adding cooking water as needed.",
+      "Spread onto a plate.",
+      "Brown the ground beef with cumin and a little salt until crisp in places.",
+      "Spoon the hot beef and toasted pine nuts over the hummus, drizzle with olive oil.",
+      "Serve with warm pita."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "moutabal",
+    "name": "Moutabal (Smoky Eggplant Dip)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "leftoverDays": 2,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "eggplant",
+        "qty": 1
+      },
+      {
+        "ingredientId": "tahini",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "pita-bread",
+        "qty": 4
+      }
+    ],
+    "steps": [
+      "Char the whole eggplants directly over a flame or under a broiler until collapsed and smoky.",
+      "Scoop out the flesh and drain briefly.",
+      "Mash with tahini, lemon juice, crushed garlic and salt.",
+      "Drizzle with olive oil and serve with warm pita."
+    ],
+    "course": "side"
+  },
+  {
+    "id": "shawarma-dajaj",
+    "name": "Shawarma Dajaj (Chicken Shawarma Wraps)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "leftoverDays": 2,
+    "tags": [
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "chicken-thigh",
+        "qty": 0.8
+      },
+      {
+        "ingredientId": "yogurt",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "seven-spice",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "pita-bread",
+        "qty": 4
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "pickles",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Marinate the chicken in yogurt, half the garlic, lemon, cumin, seven-spice and salt for at least 30 minutes.",
+      "Sear the chicken in a hot pan until charred at the edges and cooked through, then slice.",
+      "Whisk the remaining garlic with a little yogurt and lemon for a quick sauce.",
+      "Fill warm pita with chicken, tomato, pickles and sauce."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "sayadieh",
+    "name": "Sayadieh (Spiced Fish & Rice)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 40,
+    "leftoverDays": 1,
+    "tags": [
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "fish-fillet",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "pine-nuts",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.002
+      }
+    ],
+    "steps": [
+      "Season the fish with salt, pepper and lemon, then pan-sear and set aside.",
+      "Caramelize the onion slowly in olive oil until deep brown. Blend half with a little water into a dark stock base.",
+      "Toast the rice, then cook in the onion stock with cumin until tender.",
+      "Flake the fish over the rice, top with the remaining caramelized onion and toasted pine nuts."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "manakish-zaatar",
+    "name": "Manakish Za'atar",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 90,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "yeast",
+        "qty": 0.007
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.08
+      },
+      {
+        "ingredientId": "zaatar",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast, salt and water into a soft dough. Cover and let rise 1 hour.",
+      "Divide into rounds and stretch thin on trays.",
+      "Mix za'atar with olive oil and spread generously over each round.",
+      "Bake at 230°C for 8 to 10 minutes until the edges are golden."
+    ],
+    "course": "side"
+  },
+  {
+    "id": "makhlouta",
+    "name": "Makhlouta (Mixed Grain & Bean Soup)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 60,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "white-beans-dried",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "lentils-brown",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      }
+    ],
+    "steps": [
+      "Soak the beans overnight, then boil until nearly tender.",
+      "Soften the onion and garlic in olive oil with cumin and allspice.",
+      "Add the beans, lentils and enough water to make a hearty soup. Simmer 25 minutes.",
+      "Add the rice and cook a further 15 minutes until everything is tender."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "sfeeha",
+    "name": "Sfeeha (Baked Meat Pies)",
+    "cuisine": "lebanese",
+    "baseServings": 4,
+    "prepMinutes": 40,
+    "cookMinutes": 20,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "yeast",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "pomegranate-molasses",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "allspice",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "pine-nuts",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast, salt and water into a soft dough. Let rise 45 minutes.",
+      "Mix ground beef with finely diced onion, tomato, pomegranate molasses, allspice and pine nuts.",
+      "Divide the dough into rounds and top generously with the meat mixture.",
+      "Bake at 220°C for 15 to 18 minutes until the edges are golden and the meat is browned."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 90,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "yeast",
+        "qty": 0.007
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "tomato-canned-crushed",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "mozzarella",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "basil-fresh",
+        "qty": 1
+      },
+      {
+        "ingredientId": "oregano-dried",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast, salt, olive oil and water into a smooth dough. Cover and let rise 1 hour.",
+      "Divide into rounds and stretch thin on floured trays.",
+      "Spread with crushed tomato, oregano and a pinch of salt, then top with torn mozzarella.",
+      "Bake at the highest oven setting for 10 to 12 minutes until the crust is blistered.",
+      "Finish with fresh basil."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "spaghetti-bolognese",
+    "name": "Spaghetti Bolognese",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 45,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "pasta-spaghetti",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "tomato-canned-crushed",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "carrot",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "tomato-paste",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "oregano-dried",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "parmesan",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      }
+    ],
+    "steps": [
+      "Soften the onion, garlic and diced carrot in olive oil.",
+      "Add the ground beef and brown well.",
+      "Stir in the tomato paste, crushed tomato and oregano, then simmer 25 to 30 minutes.",
+      "Boil the spaghetti until al dente and toss with the sauce.",
+      "Serve with grated parmesan."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "chicken-alfredo",
+    "name": "Chicken Alfredo Pasta",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "leftoverDays": 1,
+    "tags": [
+      "quick",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "pasta-spaghetti",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "chicken-breast",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "cream",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "parmesan",
+        "qty": 0.08
+      },
+      {
+        "ingredientId": "butter",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Boil the pasta until al dente.",
+      "Sear the sliced chicken in butter until cooked through, then set aside.",
+      "Soften the garlic in the same pan, add the cream and simmer gently.",
+      "Stir in the parmesan until melted, then return the chicken and pasta to coat.",
+      "Season with black pepper and serve."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "beef-burgers-fries",
+    "name": "Beef Burgers with Fries",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "leftoverDays": 1,
+    "tags": [
+      "quick",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "burger-buns",
+        "qty": 4
+      },
+      {
+        "ingredientId": "cheddar-cheese",
+        "qty": 0.12
+      },
+      {
+        "ingredientId": "lettuce-romaine",
+        "qty": 1
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "pickles",
+        "qty": 0.08
+      },
+      {
+        "ingredientId": "ketchup",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "mustard",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "mayonnaise",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "potato",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Shape the ground beef into patties, season with salt, and set aside.",
+      "Cut the potatoes into fries, then fry in batches until golden and crisp.",
+      "Grill or pan-sear the patties to your liking, melting cheese over each in the last minute.",
+      "Toast the buns and build with lettuce, tomato, pickles and sauces.",
+      "Serve with the fries."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "caesar-salad",
+    "name": "Caesar Salad with Grilled Chicken",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "lettuce-romaine",
+        "qty": 2
+      },
+      {
+        "ingredientId": "chicken-breast",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "parmesan",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "breadcrumbs",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "mayonnaise",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Toast the breadcrumbs with garlic and a little olive oil until crisp for croutons.",
+      "Season and grill the chicken breast, then slice.",
+      "Whisk mayonnaise, lemon juice, half the parmesan and black pepper for the dressing.",
+      "Toss the torn romaine with the dressing, top with chicken, croutons and remaining parmesan."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "chicken-fajitas",
+    "name": "Chicken Fajitas",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "leftoverDays": 1,
+    "tags": [
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "chicken-breast",
+        "qty": 0.6
+      },
+      {
+        "ingredientId": "bell-pepper",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.25
+      },
+      {
+        "ingredientId": "tortilla-wraps",
+        "qty": 8
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "chili-flakes",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "salsa",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Slice the chicken and vegetables into strips.",
+      "Toss the chicken with cumin, chili flakes and salt.",
+      "Sear the chicken hard and fast in a very hot pan, then set aside.",
+      "Stir-fry the peppers and onion until charred at the edges, then return the chicken.",
+      "Serve with warm tortillas, lemon and salsa."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "fried-rice-chicken",
+    "name": "Fried Rice with Chicken & Vegetables",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "chicken-breast",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "egg",
+        "qty": 2
+      },
+      {
+        "ingredientId": "carrot",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "bell-pepper",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "scallion",
+        "qty": 1
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.015
+      },
+      {
+        "ingredientId": "soy-sauce",
+        "qty": 0.04
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.04
+      }
+    ],
+    "steps": [
+      "Cook the rice ahead of time and cool completely, ideally a day before.",
+      "Dice the chicken and vegetables small.",
+      "Scramble the eggs in a hot wok, then set aside.",
+      "Stir-fry the chicken, garlic and vegetables until just cooked, then add the cold rice.",
+      "Toss with soy sauce and the scrambled egg until well combined and heated through."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "grilled-chicken-herb-rice",
+    "name": "Grilled Chicken with Herb Rice",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 30,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "chicken-thigh",
+        "qty": 0.7
+      },
+      {
+        "ingredientId": "rice",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "parsley",
+        "qty": 1
+      },
+      {
+        "ingredientId": "cumin",
+        "qty": 0.004
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.008
+      }
+    ],
+    "steps": [
+      "Marinate the chicken in garlic, lemon, olive oil, cumin, salt and pepper for at least 20 minutes.",
+      "Grill or pan-sear until charred and cooked through.",
+      "Cook the rice, then fold through chopped parsley and a little olive oil.",
+      "Serve the chicken over the herb rice."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "penne-arrabbiata",
+    "name": "Penne Arrabbiata",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "leftoverDays": 2,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "pasta-penne",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "tomato-canned-crushed",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "chili-flakes",
+        "qty": 0.006
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "basil-fresh",
+        "qty": 1
+      },
+      {
+        "ingredientId": "parmesan",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.006
+      }
+    ],
+    "steps": [
+      "Boil the penne until al dente.",
+      "Gently cook the garlic and chili flakes in olive oil until fragrant, not browned.",
+      "Add the crushed tomato and salt, and simmer 12 minutes.",
+      "Toss the pasta through the sauce with torn basil.",
+      "Serve with grated parmesan."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "vegetable-stir-fry-noodles",
+    "name": "Vegetable Stir-fry with Noodles",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "leftoverDays": 1,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "egg-noodles",
+        "qty": 0.35
+      },
+      {
+        "ingredientId": "bell-pepper",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "carrot",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "cabbage",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "scallion",
+        "qty": 1
+      },
+      {
+        "ingredientId": "soy-sauce",
+        "qty": 0.05
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.04
+      }
+    ],
+    "steps": [
+      "Boil the noodles until just tender, then drain.",
+      "Slice all the vegetables thinly for quick, even cooking.",
+      "Stir-fry the garlic, then the vegetables in batches over high heat, keeping them crisp.",
+      "Add the noodles and soy sauce, tossing well to combine and heat through."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "beef-tacos",
+    "name": "Beef Tacos",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "leftoverDays": 1,
+    "tags": [
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "ground-beef",
+        "qty": 0.5
+      },
+      {
+        "ingredientId": "taco-seasoning",
+        "qty": 0.02
+      },
+      {
+        "ingredientId": "tortilla-wraps",
+        "qty": 8
+      },
+      {
+        "ingredientId": "lettuce-romaine",
+        "qty": 1
+      },
+      {
+        "ingredientId": "tomato",
+        "qty": 0.2
+      },
+      {
+        "ingredientId": "cheddar-cheese",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "salsa",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "onion",
+        "qty": 0.1
+      },
+      {
+        "ingredientId": "vegetable-oil",
+        "qty": 0.02
+      }
+    ],
+    "steps": [
+      "Brown the ground beef with the onion.",
+      "Stir in the taco seasoning with a splash of water and simmer until thickened.",
+      "Warm the tortillas.",
+      "Set out the beef with shredded lettuce, tomato, cheese and salsa for building tacos."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "roast-chicken-potatoes",
+    "name": "Roast Chicken with Potatoes",
+    "cuisine": "international",
+    "baseServings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 75,
+    "leftoverDays": 2,
+    "tags": [
+      "batch-friendly",
+      "comfort"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "whole-chicken",
+        "qty": 1
+      },
+      {
+        "ingredientId": "potato",
+        "qty": 0.8
+      },
+      {
+        "ingredientId": "carrot",
+        "qty": 0.3
+      },
+      {
+        "ingredientId": "garlic",
+        "qty": 0.03
+      },
+      {
+        "ingredientId": "lemon",
+        "qty": 1
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.06
+      },
+      {
+        "ingredientId": "oregano-dried",
+        "qty": 0.005
+      },
+      {
+        "ingredientId": "black-pepper",
+        "qty": 0.003
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.01
+      }
+    ],
+    "steps": [
+      "Rub the chicken with olive oil, crushed garlic, oregano, salt and pepper, and stuff the cavity with lemon.",
+      "Arrange quartered potatoes and carrots around the chicken in a roasting tray.",
+      "Roast at 200°C for about 75 minutes, basting the vegetables halfway, until the chicken is cooked through.",
+      "Rest 10 minutes before carving."
+    ],
+    "course": "main"
+  },
+  {
+    "id": "laban-side",
+    "name": "Laban (Yogurt Side)",
+    "cuisine": "lebanese",
+    "course": "side",
+    "baseServings": 4,
+    "prepMinutes": 5,
+    "cookMinutes": 0,
+    "leftoverDays": 2,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "yogurt",
+        "qty": 0.4
+      },
+      {
+        "ingredientId": "dried-mint",
+        "qty": 0.002
+      },
+      {
+        "ingredientId": "olive-oil",
+        "qty": 0.01
+      },
+      {
+        "ingredientId": "salt",
+        "qty": 0.003
+      }
+    ],
+    "steps": [
+      "Spoon the yogurt into a serving bowl and smooth the top.",
+      "Drizzle with olive oil and scatter with dried mint and a pinch of salt.",
+      "Serve alongside the main dish."
+    ]
+  },
+  {
+    "id": "pickle-olive-plate",
+    "name": "Pickle & Olive Plate",
+    "cuisine": "lebanese",
+    "course": "side",
+    "baseServings": 4,
+    "prepMinutes": 5,
+    "cookMinutes": 0,
+    "leftoverDays": 3,
+    "tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "ingredientId": "pickles",
+        "qty": 0.15
+      },
+      {
+        "ingredientId": "olives-black",
+        "qty": 0.1
+      }
+    ],
+    "steps": [
+      "Arrange the pickles and olives on a small plate.",
+      "Serve alongside the main dish."
+    ]
+  }
+]
