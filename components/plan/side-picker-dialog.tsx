@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, type ReactNode } from "react";
-import { Check, MagnifyingGlass, Plus } from "@phosphor-icons/react/ssr";
+import { Check, MagnifyingGlass, Plus, Sparkle } from "@phosphor-icons/react/ssr";
+import { AiSuggestSheet } from "@/components/settings/ai-suggest-sheet";
 import { Button } from "@/components/ui/button";
 import {
   Dialog,
@@ -80,9 +81,18 @@ export function SidePickerDialog({
           />
         </div>
         {candidates.length === 0 && (
-          <p className="py-6 text-center text-sm text-muted-foreground">
-            No sides match &ldquo;{query}&rdquo;.
-          </p>
+          <div className="flex flex-col items-center gap-3 py-6 text-center">
+            <p className="text-sm text-muted-foreground">No sides match &ldquo;{query}&rdquo;.</p>
+            <AiSuggestSheet
+              initialQuery={query}
+              initialCourse="side"
+              trigger={
+                <Button size="sm" variant="outline" className="gap-1.5">
+                  <Sparkle className="size-4" /> Suggest one with AI
+                </Button>
+              }
+            />
+          </div>
         )}
         <ul className="space-y-1.5">
           {candidates.map((r) => {

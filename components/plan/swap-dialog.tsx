@@ -1,8 +1,10 @@
 "use client";
 
 import { useState, type ReactNode } from "react";
-import { MagnifyingGlass, Repeat } from "@phosphor-icons/react/ssr";
+import { MagnifyingGlass, Repeat, Sparkle } from "@phosphor-icons/react/ssr";
+import { AiSuggestSheet } from "@/components/settings/ai-suggest-sheet";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import {
   Dialog,
   DialogContent,
@@ -93,9 +95,17 @@ export function SwapDialog({
           />
         </div>
         {candidates.length === 0 && (
-          <p className="py-6 text-center text-sm text-muted-foreground">
-            No dishes match &ldquo;{query}&rdquo;.
-          </p>
+          <div className="flex flex-col items-center gap-3 py-6 text-center">
+            <p className="text-sm text-muted-foreground">No dishes match &ldquo;{query}&rdquo;.</p>
+            <AiSuggestSheet
+              initialQuery={query}
+              trigger={
+                <Button size="sm" variant="outline" className="gap-1.5">
+                  <Sparkle className="size-4" /> Suggest one with AI
+                </Button>
+              }
+            />
+          </div>
         )}
         <ul className="space-y-1.5">
           {candidates.map((r) => (

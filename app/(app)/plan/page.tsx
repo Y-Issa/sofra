@@ -1,10 +1,11 @@
 "use client";
 
-import { ArrowsClockwise, CalendarBlank } from "@phosphor-icons/react/ssr";
+import { ArrowsClockwise, CalendarBlank, Sparkle } from "@phosphor-icons/react/ssr";
 import { BudgetMeter } from "@/components/plan/budget-meter";
 import { FlexAlternativeCard } from "@/components/plan/flex-alternative-card";
 import { NutritionSummary } from "@/components/plan/nutrition-summary";
 import { WeekGrid } from "@/components/plan/week-grid";
+import { AiSuggestSheet } from "@/components/settings/ai-suggest-sheet";
 import { Button } from "@/components/ui/button";
 import { EmptyState } from "@/components/shared/empty-state";
 import { useAppStore } from "@/lib/store";
@@ -34,10 +35,20 @@ export default function PlanPage() {
             Cooking days, leftovers, and what to buy.
           </p>
         </div>
-        <Button variant="outline" size="sm" className="gap-1.5" onClick={regeneratePlan}>
-          <ArrowsClockwise className="size-4" />
-          New plan
-        </Button>
+        <div className="flex shrink-0 gap-2">
+          <AiSuggestSheet
+            trigger={
+              <Button variant="outline" size="sm" className="gap-1.5">
+                <Sparkle className="size-4" />
+                Suggest with AI
+              </Button>
+            }
+          />
+          <Button variant="outline" size="sm" className="gap-1.5" onClick={regeneratePlan}>
+            <ArrowsClockwise className="size-4" />
+            New plan
+          </Button>
+        </div>
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2">

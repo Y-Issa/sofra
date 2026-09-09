@@ -2,7 +2,9 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { Sparkle } from "@phosphor-icons/react/ssr";
 import { toast } from "sonner";
+
 import { BudgetStep } from "@/components/onboarding/budget-step";
 import { CuisineStep } from "@/components/onboarding/cuisine-step";
 import { HouseholdStep } from "@/components/onboarding/household-step";
@@ -19,6 +21,7 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import { Separator } from "@/components/ui/separator";
+import { AiSuggestSheet } from "@/components/settings/ai-suggest-sheet";
 import { CustomRecipeSheet } from "@/components/settings/custom-recipe-sheet";
 import { CustomRecipesList } from "@/components/settings/custom-recipes-list";
 import { useAppStore } from "@/lib/store";
@@ -92,7 +95,16 @@ export default function SettingsPage() {
             <p className="text-sm text-muted-foreground">
               Add your own dishes to swap in or plan with, alongside the built-in recipes.
             </p>
-            <CustomRecipeSheet />
+            <div className="flex shrink-0 gap-2">
+              <AiSuggestSheet
+                trigger={
+                  <Button size="sm" variant="outline" className="gap-1.5">
+                    <Sparkle className="size-4" /> Suggest with AI
+                  </Button>
+                }
+              />
+              <CustomRecipeSheet />
+            </div>
           </div>
           <CustomRecipesList />
         </div>
