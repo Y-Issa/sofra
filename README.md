@@ -4,6 +4,10 @@ A weekly home-cooking planner built around Lebanese and Middle Eastern food, wit
 
 Everything runs locally in your browser. There are no accounts and no backend database.
 
+<p align="center">
+  <img src="docs/screenshots/plan.png" alt="Sofra's weekly plan: grocery budget meter, average daily nutrition, and a grid of cooking days and leftover days with sides attached" width="860">
+</p>
+
 ## What it does
 
 - **Fits a week to your budget.** The planner picks dishes for your cooking days, respects your cuisine mix and dietary filters (vegetarian, no seafood), and shows how the total compares to your budget. If a week can't fit, it says so and gives you the closest plan it could make. It can also offer an optional upgrade of a couple of dishes, with the extra cost shown up front.
@@ -17,7 +21,32 @@ Everything runs locally in your browser. There are no accounts and no backend da
 - **Suggest with AI (optional).** Ask Gemini for new recipes ("a vegetarian Lebanese dinner with eggplant"). Suggestions are matched against the ingredient catalog and saved to your recipes when you accept them.
 - **Light and dark themes.**
 
-The planner itself is deterministic code, not AI. AI is only used for the optional recipe suggestions.
+The planner itself is plain rule-based code, not AI, and it rotates through the recipe pool so each new plan differs. AI is only used for the optional recipe suggestions.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/onboarding.png" alt="Onboarding step listing nearby markets found through OpenStreetMap">
+      <br><sub><b>Pick your market.</b> Nearby stores come from OpenStreetMap, using a one-time lookup of your coordinates.</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/shopping-list.png" alt="Shopping list grouped by category with package-sized quantities and prices">
+      <br><sub><b>Shop by package.</b> Quantities round up to what stores actually sell, grouped by category, with a running total against your budget.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/recipe.png" alt="Recipe sheet with per-serving calories and macros, ingredients and steps">
+      <br><sub><b>Nutrition per serving.</b> Calories and macros for every dish, estimated from ingredient data.</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/ai-suggest.png" alt="AI suggestion sheet showing three generated eggplant recipes, one already added">
+      <br><sub><b>Suggest with AI.</b> Optional. Gemini proposes new recipes that are matched against your ingredient catalog before you add them.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Getting started
 
@@ -103,6 +132,7 @@ lib/
 data/
   recipes.json         38 recipes (31 mains, 7 sides; 26 Lebanese, 12 international)
   ingredients.json     93 ingredients with price, package size and nutrition
+docs/screenshots/      Images used in this README
 ```
 
 ## About the data
