@@ -92,7 +92,8 @@ function applyDaysEdit(
       ...variant,
       budgetUsd: plan.budgetUsd,
       overBudget: variant.totalCostUsd > plan.budgetUsd,
-      flexAlternative: plan.flexAlternative,
+      // The upgrade variant was built from the plan as generated, so it's stale once the user edits it.
+      flexAlternative: undefined,
     },
   });
 }
